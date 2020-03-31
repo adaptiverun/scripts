@@ -1,0 +1,1 @@
+get-azvmsize -location westeurope
